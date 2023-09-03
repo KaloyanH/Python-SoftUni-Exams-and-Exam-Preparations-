@@ -1,1 +1,1 @@
-# SoftUni-Exams-and-Exam-Preparations-
+Created for educational purposes. These are all exam preparations and regular exams I took during my courses at SoftUni. I hope to help fellow students see different solutions to the problems they encounter.
